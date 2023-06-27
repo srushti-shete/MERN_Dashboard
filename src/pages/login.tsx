@@ -7,6 +7,8 @@ import Typography from "@mui/material/Typography";
 import { ThemedTitleV2 } from "@refinedev/mui";
 
 import { CredentialResponse } from "../interfaces/google";
+import { yariga } from '../assets';
+
 
 // Todo: Update your Google Client ID here
 const GOOGLE_CLIENT_ID =
